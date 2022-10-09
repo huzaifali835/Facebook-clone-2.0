@@ -1,6 +1,10 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+module.exports = {
+  images:{
+    domains: [
+      "links.papareact.com",
+      "platform-lookaside.fbsbx.com",
+      "scontent.fhdd3-1.fna.fbcdn.net",
+      "firebasestorage.googleapis.com",
+    ],
+  }
 }
-
-module.exports = nextConfig
