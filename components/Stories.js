@@ -3,27 +3,27 @@ import StoryCard from "./StoryCard"
 const stories = [
     {
         name: "Jauon Ali",
-        src: "images/huzaifa-1.jpg",
+        src: "images/1st.jpg",
         profile: "images/jauon.jpg",
     },
     {
         name: "Azeem Arain",
-        src: "images/huzaifa-1.jpg",
+        src: "images/2nd.jpg",
         profile: "images/azeem.jpg",
     },
     {
         name: "Syed Hamza",
-        src: "images/huzaifa-1.jpg",
+        src: "images/3rd.jpg",
         profile: "images/hamza.jpg",
     },
     {
         name: "Shaikh Wasif",
-        src: "images/huzaifa-1.jpg",
+        src: "images/4th.jpg",
         profile: "images/wasif.jpg",
     },
     {
         name: "Shazil Khan",
-        src: "images/huzaifa-1.jpg",
+        src: "images/5th.jpg",
         profile: "images/shazil.jpg",
     },
     
